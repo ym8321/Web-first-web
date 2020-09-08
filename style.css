@@ -70,12 +70,12 @@ body {
 }
 
 #news #news-left {
-    height: 300px;
+    height: 350px;
     background-image: url(./img/right.jpg);
 }
 
 #news #news-right {
-    height: 300px;
+    height: 350px;
     background-image: url(./img/left.jpg);
 }
 
