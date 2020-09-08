@@ -65,6 +65,8 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 50px;
+    padding: 150px 0;
+    text-align: center;
 }
 
 #news #news-left {
